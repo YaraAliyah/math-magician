@@ -11,6 +11,7 @@ def main():
 
     if op == "*":
         result = multiply(a,b)
+        
     print("Ende")
 
 if __name__ == "__main__":
